@@ -1,3 +1,5 @@
+# Heading
+
 No Pain, No Gain
 No time for losers you make the call
 
@@ -11,8 +13,7 @@ OOPS!
 MORE text
 Hello, Hexlet!
 
-Hexlet the best!!! 
-
+Hexlet the best!!!
 
 Make pullrequests, not war
 Hello Hexlet, Hello Spd!
